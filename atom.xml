@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>向省礼的个人小站</title>
+  <icon>https://www.gravatar.com/avatar/75724718da46e13b0c51c224eb82a739</icon>
+  <subtitle>Keep Learning 云程万里</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/xxl00100/xxl00100.github.io.git/"/>
+  <updated>2019-08-17T14:25:20.914Z</updated>
+  <id>https://github.com/xxl00100/xxl00100.github.io.git/</id>
+  
+  <author>
+    <name>XiangXingLi</name>
+    <email>mua00100@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>password</title>
+    <link href="https://github.com/xxl00100/xxl00100.github.io.git/2019/08/17/password/"/>
+    <id>https://github.com/xxl00100/xxl00100.github.io.git/2019/08/17/password/</id>
+    <published>2019-08-17T14:23:42.000Z</published>
+    <updated>2019-08-17T14:25:20.914Z</updated>
+    
+    <content type="html"><![CDATA[<p>###嘻嘻，被你看到啦！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###嘻嘻，被你看到啦！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="加密" scheme="https://github.com/xxl00100/xxl00100.github.io.git/tags/%E5%8A%A0%E5%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一个加密文字</title>
+    <link href="https://github.com/xxl00100/xxl00100.github.io.git/2019/08/17/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E6%96%87%E5%AD%97/"/>
+    <id>https://github.com/xxl00100/xxl00100.github.io.git/2019/08/17/第一个加密文字/</id>
+    <published>2019-08-17T14:13:05.646Z</published>
+    <updated>2019-08-17T14:14:44.964Z</updated>
+    
+    <content type="html"><![CDATA[<p>###我可真聪明</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###我可真聪明&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="加密" scheme="https://github.com/xxl00100/xxl00100.github.io.git/tags/%E5%8A%A0%E5%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初识MarkDown</title>
+    <link href="https://github.com/xxl00100/xxl00100.github.io.git/2019/08/16/%E5%88%9D%E8%AF%86MarkDown/"/>
+    <id>https://github.com/xxl00100/xxl00100.github.io.git/2019/08/16/初识MarkDown/</id>
+    <published>2019-08-16T08:33:49.000Z</published>
+    <updated>2019-08-16T08:36:33.031Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="我是三级标题。我是通过-关键实现的，-的数量表示标题的等级，最高有6级，所以你知道我有几个-吗？"><a href="#我是三级标题。我是通过-关键实现的，-的数量表示标题的等级，最高有6级，所以你知道我有几个-吗？" class="headerlink" title="我是三级标题。我是通过#关键实现的，#的数量表示标题的等级，最高有6级，所以你知道我有几个#吗？"></a>我是三级标题。我是通过#关键实现的，#的数量表示标题的等级，最高有6级，所以你知道我有几个#吗？</h3><blockquote><p>好的，我现在是第一个区块，一个区块就相当于一个textarea，它可以存取一段内容。只需要在一个新行的开头输入符号‘&lt;’ + 一个空格，就代表 一个新的区块。嘻嘻😄</p><blockquote><p> 猜猜看，我现在是什么呀？没有错，我现在是另一个区块，但是我嵌套在上一个区块里面了哟。markdown语法支持在区块内嵌套其他的区块（或者标题、列表），只需要根据他的等级输入对应数量的’&lt;‘再加一个空格就能生效哟。也就是说，作为二级区块的我，头部是这样声明的：’&lt;&lt; ‘</p><h1 id="我是被嵌套在区块里面的一级标题"><a href="#我是被嵌套在区块里面的一级标题" class="headerlink" title="我是被嵌套在区块里面的一级标题"></a>我是被嵌套在区块里面的一级标题</h1></blockquote></blockquote><p>嘻嘻，我现在出来了，我在文章逻辑的最顶层哟！</p><blockquote><h1 id="好的，现在我们来学习一下列表："><a href="#好的，现在我们来学习一下列表：" class="headerlink" title="好的，现在我们来学习一下列表："></a>好的，现在我们来学习一下列表：</h1><p>列表有两种，无序列表和有序列表</p><ul><li><h2 id="无序列表："><a href="#无序列表：" class="headerlink" title="无序列表："></a>无序列表：</h2>无序列表使用’*，或者+，或者-‘，来标记，这三个符号是等价的</li><li><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2>有序列表就很简单啦，只需要用数字接着一个英文句点就可以啦，就像这样’1.‘</li></ul><ol><li>第一条</li><li>第二条<h1 id="列表总结"><a href="#列表总结" class="headerlink" title="列表总结"></a>列表总结</h1>使用列表关键字之后，只要拥有相同的缩进，那么他们就很一并被列表化</li></ol></blockquote><h2 id="现在来学习一下分割线"><a href="#现在来学习一下分割线" class="headerlink" title="现在来学习一下分割线"></a>现在来学习一下分割线</h2><blockquote><p>只要你在一个空行使用三个以上的*号，或者-号，那么我就会自动生成一个分割线啦</p><hr><p> 看到到了吗，上面就是一条分割线哟。</p></blockquote><h2 id="现在来学习一下如何标明超链接"><a href="#现在来学习一下如何标明超链接" class="headerlink" title="现在来学习一下如何标明超链接"></a>现在来学习一下如何标明超链接</h2><blockquote><p>链接内容定义的形式为：</p><ul><li>方括号（前面可以选择性地加上至多三个空格来缩进），里面输入链接文字</li><li>接着一个冒号</li><li>接着一个以上的空格或制表符</li><li>接着链接的网址</li><li>选择性地接着 title 内容，可以用单引号、双引号或是括弧包着</li></ul><p>举个例子：[foo]: <a href="http://example.com/" target="_blank" rel="noopener">http://example.com/</a>  ‘Optional Title Here’</p></blockquote><h2 id="强调某部分内容"><a href="#强调某部分内容" class="headerlink" title="强调某部分内容"></a>强调某部分内容</h2><blockquote><p>你可以使用星号或者减号，紧紧的包裹住一部分内容，那么就能起到强调的效果。就像这样</p><p><em>强调效果</em></p></blockquote><h1 id="好的，我已经有了最基本的了解了，让我动手丰富自己的个人站点吧！"><a href="#好的，我已经有了最基本的了解了，让我动手丰富自己的个人站点吧！" class="headerlink" title="好的，我已经有了最基本的了解了，让我动手丰富自己的个人站点吧！"></a>好的，我已经有了最基本的了解了，让我动手丰富自己的个人站点吧！</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;我是三级标题。我是通过-关键实现的，-的数量表示标题的等级，最高有6级，所以你知道我有几个-吗？&quot;&gt;&lt;a href=&quot;#我是三级标题。我是通过-关键实现的，-的数量表示标题的等级，最高有6级，所以你知道我有几个-吗？&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一个博客文字，嘻嘻嘻嘻</title>
+    <link href="https://github.com/xxl00100/xxl00100.github.io.git/2019/08/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%E6%96%87%E5%AD%97%EF%BC%8C%E5%98%BB%E5%98%BB%E5%98%BB%E5%98%BB/"/>
+    <id>https://github.com/xxl00100/xxl00100.github.io.git/2019/08/16/我的第一个博客文字，嘻嘻嘻嘻/</id>
+    <published>2019-08-16T04:04:59.000Z</published>
+    <updated>2019-08-16T04:09:16.305Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容1，内容1，内容1，内容1，内容1，内容1，内容1，。第一章结束啦</p><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容2，啦啦啦啦拉拉，我是卖报的小行家</p><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="http://www.xxl00100.github.io" target="_blank" rel="noopener">www.xxl00100.github.io</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容1，内容1，内容1，内容1，内容1，内容1，内容1，。第一章结束啦&lt;/p&gt;
+&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
