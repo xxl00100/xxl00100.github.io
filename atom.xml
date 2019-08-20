@@ -23,15 +23,11 @@
     <published>2019-08-17T14:23:42.000Z</published>
     <updated>2019-08-17T14:25:20.914Z</updated>
     
-    <content type="html"><![CDATA[<p>###嘻嘻，被你看到啦！</p>]]></content>
+    <content type="html"><![CDATA[<script src="/crypto-js.js"></script><script src="/mcommon.js"></script><h3 id="encrypt-message">Please enter the password to read.</h3><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <div id="hbe-security"> <div class="hbe-input-container"> <input type="password" class="hbe-form-control" id="pass" placeholder="{{message}}" /> <label for="pass">{{message}}</label> <div class="bottom-line"></div> </div> </div> <div id="decryptionError" style="display:none;">{{decryptionError}}</div> <div id="noContentError" style="display:none;">{{noContentError}}</div> <div id="encrypt-blog" style="display:none"> U2FsdGVkX1/FceFHX9A8C+vujCUvXkY4KRZSyRSQ67MAFgWIQ9YUQrUp8NvYFLueKQJUmsduVvQglR07JJMzmjh4lvCfAfyYRW6NTV/mACe8iJWNaiWF9veA7M4R4Gzyv+bmWZA7iJ8kQoAaCfAAxGOcrrGDYEYTdAckCbuEgOQ= </div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;###嘻嘻，被你看到啦！&lt;/p&gt;
-
-      
+      the content has been encrypted, enter the password to read.&lt;/br&gt;
     
     </summary>
     
@@ -47,15 +43,11 @@
     <published>2019-08-17T14:13:05.646Z</published>
     <updated>2019-08-17T14:14:44.964Z</updated>
     
-    <content type="html"><![CDATA[<p>###我可真聪明</p>]]></content>
+    <content type="html"><![CDATA[<script src="/crypto-js.js"></script><script src="/mcommon.js"></script><h3 id="encrypt-message">Please enter the password to read.</h3><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <div id="hbe-security"> <div class="hbe-input-container"> <input type="password" class="hbe-form-control" id="pass" placeholder="{{message}}" /> <label for="pass">{{message}}</label> <div class="bottom-line"></div> </div> </div> <div id="decryptionError" style="display:none;">{{decryptionError}}</div> <div id="noContentError" style="display:none;">{{noContentError}}</div> <div id="encrypt-blog" style="display:none"> U2FsdGVkX1/GUuSZaHGjQF9GoUYuSHrW97YYHNI+3jI/J3VujLxddh2Gy6uQta9MqLYMa4X61m3PQus+oxoE3sWUWt5ER0N0vMllWtfR6drvJB1z3zq4C4Hg7DEVsskw </div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;###我可真聪明&lt;/p&gt;
-
-      
+      the content has been encrypted, enter the password to read.&lt;/br&gt;
     
     </summary>
     

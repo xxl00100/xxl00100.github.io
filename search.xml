@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[password]]></title>
     <url>%2F2019%2F08%2F17%2Fpassword%2F</url>
-    <content type="text"><![CDATA[###嘻嘻，被你看到啦！]]></content>
+    <content type="text"><![CDATA[Please enter the password to read. {{message}} {{decryptionError}} {{noContentError}} U2FsdGVkX1/FceFHX9A8C+vujCUvXkY4KRZSyRSQ67MAFgWIQ9YUQrUp8NvYFLueKQJUmsduVvQglR07JJMzmjh4lvCfAfyYRW6NTV/mACe8iJWNaiWF9veA7M4R4Gzyv+bmWZA7iJ8kQoAaCfAAxGOcrrGDYEYTdAckCbuEgOQ=]]></content>
       <tags>
         <tag>加密</tag>
       </tags>
@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[第一个加密文字]]></title>
     <url>%2F2019%2F08%2F17%2F%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8A%A0%E5%AF%86%E6%96%87%E5%AD%97%2F</url>
-    <content type="text"><![CDATA[###我可真聪明]]></content>
+    <content type="text"><![CDATA[Please enter the password to read. {{message}} {{decryptionError}} {{noContentError}} U2FsdGVkX1/GUuSZaHGjQF9GoUYuSHrW97YYHNI+3jI/J3VujLxddh2Gy6uQta9MqLYMa4X61m3PQus+oxoE3sWUWt5ER0N0vMllWtfR6drvJB1z3zq4C4Hg7DEVsskw]]></content>
       <tags>
         <tag>加密</tag>
       </tags>
